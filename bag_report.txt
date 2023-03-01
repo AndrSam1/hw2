@@ -1,1 +1,16 @@
-test
+
+# 1
+Bug: Incorrect font size
+Description: The font size of the text on the page is incorrect.
+Expected Result": "The font size should be 12pt.
+
+# 2
+Bug: Broken link
+Description: The link to the contact page is broken.
+Expected Result: The link should take the user to the contact page.
+
+# 3
+Bug: Image not displaying
+Description: The image on the page is not displaying.
+Expected Result: The image should be displayed correctly.
+
